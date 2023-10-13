@@ -1,0 +1,9 @@
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\NN\NN\bin\Debug\NN.exe.config
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\NN\NN\bin\Debug\NN.exe
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\NN\NN\bin\Debug\NN.pdb
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\NN\NN\obj\Debug\NN.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\NN\NN\obj\Debug\NN.exe
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\NN\NN\obj\Debug\NN.pdb
+C:\myC#\Projects(2)\NN\NN\bin\Debug\NN.exe.config
+C:\myC#\Projects(2)\NN\NN\obj\Debug\NN.exe
+C:\myC#\Projects(2)\NN\NN\obj\Debug\NN.pdb
